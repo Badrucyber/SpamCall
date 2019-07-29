@@ -123,8 +123,10 @@ echo $green."
 "Spammer Ojek Grab";
 echo $red."
 [!] Author    = MUHAMAD BADRU WASIH					[!]
-[!] Youtube = https://m.youtube.com/channel/UCq-o0evjeKqFNDOFfOFSOhg Scripts   [!]
-[!] github     = https://github.com/Badrucyber/        [!]\n";
+[!] Facebook  = https://mbasic.facebook.com/muhamad.badruwasih.3998     
+[!]
+[!] github    = https://github.com/Badrucyber/        
+[!]\n";
 echo $blue."
 ======================================
 |[!]  Thanks To Allah swt [!]|
