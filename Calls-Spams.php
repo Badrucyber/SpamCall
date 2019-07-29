@@ -86,7 +86,7 @@ class prankcall{
 	}
 	public function run(){
 		while(true){
-			echo "rootlocalhost_Zen=# Kirim Mode Manual/Tidak ?(y/t) : ";
+			echo "rootlocalhost_Badru=# Kirim Mode Manual/Tidak ?(y/t) : ";
 			$loop = $this->get();
 			if($loop=="y" OR $loop=="t"){
 				break;
@@ -96,7 +96,7 @@ class prankcall{
 			}
 		}
 		if($loop=="y"){
-			echo "rootlocalhost_Zen=# Masukan Jumlah Spam nya Gan #-> ";
+			echo "rootlocalhost_Badru=# Masukan Jumlah Spam nya Gan #-> ";
 			$many = $this->get();
 			$this->loop($many);
 		}else{
@@ -122,9 +122,9 @@ echo $green."
 ╚═╝┴  ┴ ┴┴ ┴  ╚═╝┴ ┴┴─┘┴─┘\n".$blue.
 "Spammer Ojek Grab";
 echo $red."
-[!] Author    = Zen-Clay					[!]
-[!] Youtube = www.youtube.com/Z3N Scripts   [!]
-[!] github     = https://github.com/Zen-Clay        [!]\n";
+[!] Author    = MUHAMAD BADRU WASIH					[!]
+[!] Youtube = https://m.youtube.com/channel/UCq-o0evjeKqFNDOFfOFSOhg Scripts   [!]
+[!] github     = https://github.com/Badrucyber/        [!]\n";
 echo $blue."
 ======================================
 |[!]  Thanks To Allah swt [!]|
