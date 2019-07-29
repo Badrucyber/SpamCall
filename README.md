@@ -3,9 +3,8 @@ Spam Call Unlimited All operators
 Installers
 $ pkg install git
 $ pkg install php
-$ cd Calls-Spams
-$ php Calls-Spams.php
+$git clone https://github.com/Badrucyber/SpamCall
+$ cd SpamCall
 
-#Whatsapp Group
+$ php CallsSpams.php
 
-https://chat.whatsapp.com/DdFw8NenbJy9V9nmV85VBA
